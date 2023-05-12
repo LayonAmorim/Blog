@@ -1,0 +1,10 @@
+@font-face {
+    font-family: franchise;
+    src: url(../fonts/Franchise.ttf);
+}
+
+p{
+    font-family: franchise;
+    font-size: 20pt;
+}
+
